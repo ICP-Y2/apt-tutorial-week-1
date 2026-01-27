@@ -31,7 +31,6 @@ Create a **terminal-based Learning Logs application** using Java.
 - Each topic has a name.
 
 ---
-
 ### Task 2: Entries 
 - Allow the user to:
   - Add a learning entry under a topic
@@ -49,3 +48,27 @@ Create a **terminal-based Learning Logs application** using Java.
 - Keep the program simple and readable
 ---
 
+### Some test cases
+
+#### Topics 
+| TC ID | Description                       | Input             | Expected Result                     |
+| ----- | --------------------------------- | ----------------- | ----------------------------------- |
+| 1    | Add a single topic                | `Programming`     | Topic is added successfully         |
+| 2    | View topics when one topic exists | View Topics       | `Programming` is displayed          |
+| 3    | View topics when no topics exist  | View Topics       | Message shown: No topics available  |
+| 4    | Add a topic with empty name       | Press Enter       | Topic is not added                  |
+
+#### Entries
+| TC ID | Description                            | Input                                            | Expected Result                            |
+| ----- | -------------------------------------- | ------------------------------------------------ | ------------------------------------------ |
+| 1    | Add an entry to an existing topic      | Topic: `Programming`, Entry: `Learn Java basics` | Entry is added successfully                |
+| 2    | View entries after adding one          | View Entries                                     | Entry is displayed under the correct topic |
+| 3    | Add entry to a non-existing topic      | Topic: `History`                                 | Error or topic not found message           |
+| 4    | View entries when no entries exist     | View Entries                                     | Message shown: No entries available        |
+
+#### Bonus Task
+| TC ID | Description                      | Input                          | Expected Result                |
+| ----- | -------------------------------- | ------------------------------ | ------------------------------ |
+| 1    | Prevent duplicate topic names    | `Programming` added twice      | Duplicate topic is not allowed |
+| 2    | Improve topic search performance | Many topics                    | Topic is found efficiently     |
+| 3    | Case-insensitive topic search    | `programming` vs `Programming` | Topic is matched correctly     |
