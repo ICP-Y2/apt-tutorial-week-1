@@ -51,7 +51,7 @@ Create a **terminal-based Learning Logs application** using Java.
 ### Some test cases
 
 #### Topics 
-| TC ID | Description                       | Input             | Expected Result                     |
+| TC | Description                       | Input             | Expected Result                     |
 | ----- | --------------------------------- | ----------------- | ----------------------------------- |
 | 1    | Add a single topic                | `Programming`     | Topic is added successfully         |
 | 2    | View topics when one topic exists | View Topics       | `Programming` is displayed          |
@@ -59,7 +59,7 @@ Create a **terminal-based Learning Logs application** using Java.
 | 4    | Add a topic with empty name       | Press Enter       | Topic is not added                  |
 
 #### Entries
-| TC ID | Description                            | Input                                            | Expected Result                            |
+| TC | Description                            | Input                                            | Expected Result                            |
 | ----- | -------------------------------------- | ------------------------------------------------ | ------------------------------------------ |
 | 1    | Add an entry to an existing topic      | Topic: `Programming`, Entry: `Learn Java basics` | Entry is added successfully                |
 | 2    | View entries after adding one          | View Entries                                     | Entry is displayed under the correct topic |
@@ -67,7 +67,7 @@ Create a **terminal-based Learning Logs application** using Java.
 | 4    | View entries when no entries exist     | View Entries                                     | Message shown: No entries available        |
 
 #### Bonus Task
-| TC ID | Description                      | Input                          | Expected Result                |
+| TC | Description                      | Input                          | Expected Result                |
 | ----- | -------------------------------- | ------------------------------ | ------------------------------ |
 | 1    | Prevent duplicate topic names    | `Programming` added twice      | Duplicate topic is not allowed |
 | 2    | Improve topic search performance | Many topics                    | Topic is found efficiently     |
