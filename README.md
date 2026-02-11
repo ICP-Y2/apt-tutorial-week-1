@@ -1,8 +1,7 @@
-# apt-tutorial-week-1
+# APT-Tutorial-Week-1
 
-# Learning Logs – Tutorial 1 
+## Learning Logs - Tutorial 1 
 
-## Scenario
 When you are learning something new, it is easy to forget what you already studied.
 For example, while learning programming or any technical subject, you may read many
 resources and try many examples.
