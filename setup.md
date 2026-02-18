@@ -1,6 +1,7 @@
 # Setup Guide – Tutorial 1  
-APT-Tutorial-Week-1  
-Learning Logs (Terminal Application)
+
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/5706c453-faf9-4d0a-9eb2-1e933e4d37ca" align="left"/>
+<br/>
 
 This guide explains how to:
 
@@ -9,9 +10,9 @@ This guide explains how to:
 3. Clone the repository  
 4. Open and run the project  
 
----
+</br>
 
-# ✅ Step 1: Install Java (Required)
+# Step 1: Install Java (Required)
 
 Make sure Java JDK 17 or higher is installed.
 
