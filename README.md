@@ -6,13 +6,17 @@ When you are learning something new, it is easy to forget what you already studi
 For example, while learning programming or any technical subject, you may read many
 resources and try many examples.
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d6ae3bd0-ae1c-4874-8235-21652105b42f" align="left" />
+
 A **Learning Log** helps you:
 - Keep track of topics you are learning
 - Write down what you learned about each topic
 - Review your learning later
 
-This project helps you build a simple system to organize learning in one place.
+<br clear="right"/>
+</br>
 
+This project helps you build a simple system to organize learning in one place.
 ---
 
 ## Objective
@@ -23,7 +27,10 @@ Create a **terminal-based Learning Logs application** using Java.
 
 ## Tasks to Complete
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9ef88e5e-c844-4ef9-8355-f4af00ac0a78" align="left"/>
+
 ### Task 1: Topics 
+
 - Each topic has a name.
 - Allow the user to:
   - Add a new topic
@@ -38,6 +45,7 @@ Create a **terminal-based Learning Logs application** using Java.
 ---
 
 ### Some test cases
+<img width="220" height="260" alt="image" src="https://github.com/user-attachments/assets/84f70e13-4b89-49e5-aec9-ac855be50de1" align="left" />
 
 #### Topics 
 | TC | Description                       | Input             | Expected Result                     |
