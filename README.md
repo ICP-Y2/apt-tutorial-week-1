@@ -27,14 +27,14 @@ Create a **terminal-based Learning Logs application** using Java.
 
 ## Tasks to Complete
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9ef88e5e-c844-4ef9-8355-f4af00ac0a78" align="left"/>
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9ef88e5e-c844-4ef9-8355-f4af00ac0a78" align="left"/></br>
 
 ### Task 1: Topics 
 
 - Each topic has a name.
 - Allow the user to:
-  - Add a new topic
-  - View all topics
+- [ ] Add a new topic
+- [ ] View all topics
 ---
 
 ## Constraints
