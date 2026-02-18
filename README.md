@@ -47,3 +47,8 @@ Create a **terminal-based Learning Logs application** using Java.
 | 3    | View topics when no topics exist  | View Topics       | Message shown: No topics available  |
 | 4    | Add a topic with empty name       | Press Enter       | Topic is not added                  |
 
+## Setup Instructions
+
+Please follow the setup guide here:
+
+👉 [Open Setup Guide](./setup.md)
