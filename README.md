@@ -12,12 +12,8 @@ A **Learning Log** helps you:
 - Keep track of topics you are learning
 - Write down what you learned about each topic
 - Review your learning later
-
-<br clear="right"/>
-
-
+<br/>
 This project helps you build a simple system to organize learning in one place.
----
 
 ## Objective
 Create a **terminal-based Learning Logs application** using Java.
@@ -45,7 +41,7 @@ Create a **terminal-based Learning Logs application** using Java.
 ---
 
 ### Some test cases
-<img width="220" height="260" alt="image" src="https://github.com/user-attachments/assets/84f70e13-4b89-49e5-aec9-ac855be50de1" align="left" /><br/>
+<img width="220" height="260" alt="image" src="https://github.com/user-attachments/assets/84f70e13-4b89-49e5-aec9-ac855be50de1" align="left" />
 
 #### Topics 
 | TC | Description                       | Input             | Expected Result                     |
@@ -54,8 +50,8 @@ Create a **terminal-based Learning Logs application** using Java.
 | 2    | View topics when one topic exists | View Topics       | `Programming` is displayed          |
 | 3    | View topics when no topics exist  | View Topics       | Message shown: No topics available  |
 | 4    | Add a topic with empty name       | Press Enter       | Topic is not added                  |
+<br/>
 
-<br clear="right"/>
 ## Setup Instructions
 
 Please follow the setup guide here:
