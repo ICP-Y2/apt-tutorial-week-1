@@ -21,12 +21,6 @@ public class LearningLogs {
                     // TODO: View topics
                     break;
                 case "3":
-                    // TODO: Add entry to a topic
-                    break;
-                case "4":
-                    // TODO: View entries
-                    break;
-                case "5":
                     System.out.println("Goodbye!");
                     return;
                 default:
@@ -39,9 +33,7 @@ public class LearningLogs {
         System.out.println("\nLearning Logs Menu");
         System.out.println("1. Add Topic");
         System.out.println("2. View Topics");
-        System.out.println("3. Add Entry");
-        System.out.println("4. View Entries");
-        System.out.println("5. Exit");
+        System.out.println("3. Exit");
         System.out.print("Choose an option: ");
     }
 
@@ -49,7 +41,4 @@ public class LearningLogs {
 
     // TODO: Implement view topics logic
 
-    // TODO: Implement add entry logic
-
-    // TODO: Implement view entries logic
 }
