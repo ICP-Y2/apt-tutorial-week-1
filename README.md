@@ -45,7 +45,7 @@ Create a **terminal-based Learning Logs application** using Java.
 ---
 
 ### Some test cases
-<img width="220" height="260" alt="image" src="https://github.com/user-attachments/assets/84f70e13-4b89-49e5-aec9-ac855be50de1" align="left" />
+<img width="220" height="260" alt="image" src="https://github.com/user-attachments/assets/84f70e13-4b89-49e5-aec9-ac855be50de1" align="left" /><br/>
 
 #### Topics 
 | TC | Description                       | Input             | Expected Result                     |
