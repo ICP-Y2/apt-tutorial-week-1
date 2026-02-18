@@ -14,7 +14,7 @@ A **Learning Log** helps you:
 - Review your learning later
 
 <br clear="right"/>
-</br>
+
 
 This project helps you build a simple system to organize learning in one place.
 ---
@@ -55,6 +55,7 @@ Create a **terminal-based Learning Logs application** using Java.
 | 3    | View topics when no topics exist  | View Topics       | Message shown: No topics available  |
 | 4    | Add a topic with empty name       | Press Enter       | Topic is not added                  |
 
+<br clear="right"/>
 ## Setup Instructions
 
 Please follow the setup guide here:
